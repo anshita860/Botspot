@@ -1,4 +1,11 @@
-.App {
+/* .background{
+  background: url('../images/background.jpg');
+} */
+*{
+  box-sizing: border-box;
+  font-family: 'Noto Sans Display', sans-serif;
+}
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +42,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
